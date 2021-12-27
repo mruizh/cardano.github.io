@@ -3,7 +3,7 @@
     "info": {
         "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
-        "location": xxx,xxx",
+        "location": "xx,xxx",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "",
